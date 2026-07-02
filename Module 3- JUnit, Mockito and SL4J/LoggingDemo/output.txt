@@ -1,0 +1,4 @@
+11:22:21.439 [LoggingExample.main()] INFO LoggingExample - Application Started
+11:22:21.440 [LoggingExample.main()] WARN LoggingExample - This is a warning message.
+11:22:21.441 [LoggingExample.main()] ERROR LoggingExample - This is an error message.
+11:22:21.441 [LoggingExample.main()] INFO LoggingExample - Application Finished
