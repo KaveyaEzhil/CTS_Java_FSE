@@ -1,0 +1,16 @@
+[INFO] Scanning for projects...
+[INFO] 
+[INFO] -------------------< com.library:LibraryManagement >--------------------
+[INFO] Building LibraryManagement 1.0-SNAPSHOT
+[INFO]   from pom.xml
+[INFO] --------------------------------[ jar ]---------------------------------
+[INFO] 
+[INFO] --- exec:3.6.3:java (default-cli) @ LibraryManagement ---
+Book Service is working.
+Book Repository is working.
+[INFO] ------------------------------------------------------------------------
+[INFO] BUILD SUCCESS
+[INFO] ------------------------------------------------------------------------
+[INFO] Total time:  1.272 s
+[INFO] Finished at: 2026-07-02T11:52:24+05:30
+[INFO] ------------------------------------------------------------------------
